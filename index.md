@@ -10,9 +10,8 @@
 *  a. 评委奖：3名，奖品300元
 *  b. 人气奖：3名，奖品200元 (微信朋友圈点赞数量，Github Star数量，公开投票的票数等)
 *  c. 幸运奖：3名，奖品100元 (将随机抽取3名幸运奖)
-*  d. 参与奖：小礼品
 
-(奖金不多，重在鼓励大家的参与，一起学习分享，交流成长 :)　)
+(奖品不多，重在鼓励大家的参与，一起学习分享，交流成长 :)　)
 
 ## 3. 参与方法
 * a. 本次活动面向珠海ISDC的所有同事，自由参与，没有限制
@@ -23,7 +22,7 @@
    *  You need fork this repository firstly
    *  then modify own forked repository, commit, push to the forked repo,
    *  then submit pull request to this central repo, and wait for maintainer(OITC Group Member) to review and design merge/reject
-* e. 我们会在Mar/30（周五）之前以邮件形式公开结果，发布奖金奖品。
+* e. 我们会在Mar/30（周五）之前以邮件形式公开结果，发布奖品。
 
 ## 4. 参与形式-不限!
 * a. 您可以写博客，项目实践总结，读书笔记，学习教学视频所感所悟，也可以是自己录制的技术分享视频，podcast等等。。。　
@@ -35,7 +34,7 @@
 * f. 公开的内容请避免涉及公司的商业，知识产权。
 
 ## 5. 活动后续
-* 我们会一进步组织大家用虚拟项目的形式实践这些技术方向和敏捷流程。
+* 我们会一进步组织大家用虚拟项目的形式实践这些技术方向。
 * 更多精彩活动，敬请期待。。。
 
 
