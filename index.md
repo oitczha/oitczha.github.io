@@ -44,3 +44,7 @@
 ## 6.活动后续
 * 我们会一进步组织大家用虚拟项目的形式实践这些技术方向和敏捷流程。
 * 敬请期待。。。
+
+## 7.活动参与链接
+* 示例: Glen Zhu, 1, :示例1234 www.baidu.com
+* 示例: Glen Zhu, 2, :示例3456 blog.csdn.net/yuexianchang/article/details/53431703
