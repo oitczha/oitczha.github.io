@@ -17,7 +17,7 @@
 ## 3. 参与方法
 * a. 本次活动面向珠海ISDC的所有同事，自由参与，没有限制
 * b. 时间：从发布的即刻起一直到Mar/16 24:00PM(周五)截止
-* c. 您可以以邮件的形式发送参赛作品链接给组委会: jason.cui@oocl.com
+* c. 您可以以邮件的形式发送参赛作品链接给组委会。
 * d. 您也可以用自己的帐号登录Github，自助编辑主页: [ZHA ISDC博客有奖竞赛参与链接汇总页面](https://github.com/oitczha/oitczha.github.io/blob/master/blog-competition.md) 。
    *  在这里更新您的博客文章链接，博客主页，或者是您的Github等开源代码库的路径，或者是视频,podcast的路径等等
    *  You need fork this repository firstly
