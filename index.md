@@ -20,10 +20,10 @@
 * c. 您可以以邮件的形式发送参赛作品链接给组委会: jason.cui@oocl.com
 * d. 您也可以用自己的帐号登录Github，自助编辑主页: [ZHA ISDC博客有奖竞赛参与链接汇总页面](https://github.com/oitczha/oitczha.github.io/blob/master/blog-competition.md) 。
    *  在这里更新您的博客文章链接，博客主页，或者是您的Github等开源代码库的路径，或者是视频,podcast的路径等等
-   *  You need fork this repostiory firstly
+   *  You need fork this repository firstly
    *  then modify own forked repository, commit, push to the forked repo,
-   *  then submit pull request to this centrel repo, and wait for maintainer(OITC Group Member) to review and design merge/reject
-* e. 我们会在Mar/30（周五）之前以邮件形式公开结果，发布奖金奖品
+   *  then submit pull request to this central repo, and wait for maintainer(OITC Group Member) to review and design merge/reject
+* e. 我们会在Mar/30（周五）之前以邮件形式公开结果，发布奖金奖品。
 
 ## 4. 参与形式-不限!
 * a. 您可以写博客，项目实践总结，读书笔记，学习教学视频所感所悟，也可以是自己录制的技术分享视频，podcast等等。。。　
@@ -32,11 +32,11 @@
 * c. 内容必须是原创，或者基于他人作品修改，但内容有明显本质差异。
 * d. 提交的内容最好是比赛期间创作的，或者向上追朔三个月内(2017/Nov/1开始)的作品。
 * e. 每个同事最多可以提交3个参赛作品链接。
-* f. 公开的内容请避免涉及公司的商业，知识产权
+* f. 公开的内容请避免涉及公司的商业，知识产权。
 
 ## 5. 活动后续
 * 我们会一进步组织大家用虚拟项目的形式实践这些技术方向和敏捷流程。
 * 更多精彩活动，敬请期待。。。
 
 
-如果您有任何宝贵建议，敬请联系反馈给组委会
+如果您有任何宝贵建议，敬请联系反馈给组委会。
